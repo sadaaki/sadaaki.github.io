@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__claude_ai_note__note_user_public_info",
+      "mcp__claude_ai_note__search_note",
+      "WebSearch",
+      "WebFetch(domain:ja.wikipedia.org)"
+    ]
+  }
+}

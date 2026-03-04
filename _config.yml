@@ -1,0 +1,15 @@
+title: Sadaaki Kato
+description: CEO of note, Inc. / Editor / Entrepreneur
+baseurl: ""
+url: ""
+theme: minima
+
+author:
+  name: Sadaaki Kato
+  email: ""
+
+social_links:
+  - platform: note
+    user_url: "https://note.com/sadaaki"
+  - platform: x
+    user_url: "https://x.com/sadaaki"
